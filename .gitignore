@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  *
  saved_variables.cfg
  adxl_results/belts/*.csv
@@ -10,3 +11,14 @@
  !telegram.conv
  !variables.cfg
  !.gitignore
+=======
+.env
+secrets.conf
+*.swp
+*.tmp
+printer-[0-9]*_[0-9]*.cfg
+*.bak
+*.bkp
+*.csv
+*.zip
+>>>>>>> 620008c090afa45f81fabfeedaaec491fecae6ff
