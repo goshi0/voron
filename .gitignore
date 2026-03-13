@@ -1,3 +1,12 @@
+ *
  saved_variables.cfg
  adxl_results/belts/*.csv
  adxl_results/vibrations/*.tar.gz
+ !mobileraker.conf
+ !moonraker.conf
+ !moonraker-sql.db
+ !printer.cfg
+ !telegram.conf
+ !telegram.conv
+ !variables.cfg
+ !.gitignore
