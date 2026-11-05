@@ -1,17 +1,3 @@
-<<<<<<< HEAD
- *
- saved_variables.cfg
- adxl_results/belts/*.csv
- adxl_results/vibrations/*.tar.gz
- !mobileraker.conf
- !moonraker.conf
- !moonraker-sql.db
- !printer.cfg
- !telegram.conf
- !telegram.conv
- !variables.cfg
- !.gitignore
-=======
 .env
 secrets.conf
 *.swp
@@ -21,4 +7,3 @@ printer-[0-9]*_[0-9]*.cfg
 *.bkp
 *.csv
 *.zip
->>>>>>> 620008c090afa45f81fabfeedaaec491fecae6ff
